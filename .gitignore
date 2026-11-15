@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset files
+dataset/
+
+# Trained models
+models/
+
+# Generated outputs
+outputs/
+
+# Environment variables
+.env
